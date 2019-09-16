@@ -1,0 +1,10 @@
+.div {
+  margin-bottom: 20px;
+}
+
+.buttonLink {
+  font-size: 14px;
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
